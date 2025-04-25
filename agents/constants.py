@@ -1,0 +1,1 @@
+DOC_QNA_COLLECTION_NAME = "doc_qna"
